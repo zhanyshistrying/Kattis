@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FYI/FYI.iml" filepath="$PROJECT_DIR$/FYI/FYI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finding an A/Finding an A.iml" filepath="$PROJECT_DIR$/Finding an A/Finding an A.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jack-O-Lantern Juxtaposition/Jack-O-Lantern Juxtaposition.iml" filepath="$PROJECT_DIR$/Jack-O-Lantern Juxtaposition/Jack-O-Lantern Juxtaposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Kattis.iml" filepath="$PROJECT_DIR$/.idea/Kattis.iml" />
     </modules>
   </component>
